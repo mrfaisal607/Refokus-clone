@@ -75,7 +75,8 @@ Contributions are welcome! If you'd like to enhance this project or fix any issu
 
 ## 📷 Screenshots
 
-_Add screenshots of your project in action here!_
+![localhost_5173_ (1)](https://github.com/user-attachments/assets/4f874b08-e8af-4179-890f-094290a826a0)
+
 
 ## 📝 License
 
